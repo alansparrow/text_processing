@@ -1,0 +1,4 @@
+﻿  TextProcessing.cpp
+c:\c++\textprocessing\textprocessing\textprocessing.cpp(152): warning C4018: '<': signed/unsigned mismatch
+c:\c++\textprocessing\textprocessing\textprocessing.cpp(224): warning C4715: 'f6': not all control paths return a value
+  TextProcessing.vcxproj -> C:\C++\TextProcessing\Debug\TextProcessing.exe
